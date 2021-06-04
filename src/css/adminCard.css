@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.admincard{
+    margin-top: 2%;
+}
+
+@media (max-width:576px) {
+
+.registernumber{
+    margin-left: -31%;
+}
+.name{
+    margin-left: -36%;
+}
+.coursename{
+    margin-left: -35%;
+}
+.m1{
+    margin-left: -24%;
+}
+.m2{
+    margin-left: -24%;
+}
+.m3{
+    margin-left: -27%;
+}
+.total{
+    margin-left: -18%;
+}
+.result{
+    margin-left: -28%;
+}
+
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.admincard{
+    margin-top: 2%;
+}
+
+@media (max-width:576px) {
+
+.username{
+    margin-left: -31%;
+}
+.password{
+    margin-left: -33%;
+}
+}
