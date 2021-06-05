@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### 'Add your firebase cdn in src/firebase.config.js and src/firebase.json'
+### Add your firebase cdn in src/firebase.config.js and src/firebase.json
 
 you can get your firebase cdn from firebase settings in your firebase project.
 
