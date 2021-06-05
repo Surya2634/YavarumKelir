@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Add your firebase cdn in src/firebase.config.js and src/firebase.json
 
-you can get your firebase cdn from firebase settings in your firebase project.
+You can get your firebase cdn from firebase settings in your firebase project.
 
